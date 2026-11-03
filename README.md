@@ -336,6 +336,7 @@ Legend: ✅ reachable - ⚠️ blocked to automated checks or erroring (verify m
 | Wired Business | [wired.business](https://wired.business) | – | – | Free | ✅ |
 | Xnavi AI | [xnavi.ai](https://xnavi.ai/) | – | – | – | ❌ unreachable |
 | yo.directory | [yo.directory](https://yo.directory/) | [Submit](https://yo.directory/) | – | Freemium | ✅ |
+| Aidirs | [aidirs.best](https://aidirs.best) | [Submit](https://aidirs.best/submit) | – | Free with badge | ✅ |
 
 ## SaaS and Startup Directories
 
