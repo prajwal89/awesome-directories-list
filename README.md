@@ -553,6 +553,7 @@ Legend: ✅ reachable - ⚠️ blocked to automated checks or erroring (verify m
 | List Of Freeware | [listoffreeware.com](https://listoffreeware.com/submit-new-freeware/) | [Submit](https://listoffreeware.com/submit-new-freeware/) | – | Free | ✅ |
 | Open Alternative | [openalternative.co](https://openalternative.co) | [Submit](https://openalternative.co) | – | Freemium | ✅ |
 | SaaSFame | [saasfame.com](https://saasfame.com) | [Submit](https://saasfame.com) | – | Freemium | ✅ |
+| SaaSRove | [saasrove.com](https://saasrove.com) | [Submit](https://saasrove.com/submit) | – | Free with badge | ✅ |
 
 ## Launch Platforms and Communities
 
@@ -574,6 +575,7 @@ Legend: ✅ reachable - ⚠️ blocked to automated checks or erroring (verify m
 | Shiny Launch | [shinylaunch.com](https://shinylaunch.com) | [Submit](https://shinylaunch.com) | – | Free | ✅ |
 | Sidehunt | [sidehunt.io](https://sidehunt.io) | – | – | – | ✅ |
 | TryLaunch.ai | [trylaunch.ai](https://trylaunch.ai) | [Submit](https://trylaunch.ai) | – | Free | ✅ |
+| LaunchRove | [launchrove.com](https://launchrove.com) | [Submit](https://launchrove.com/submit) | – | Free with badge | ✅ |
 
 ## Directories of Directories
 
@@ -598,6 +600,7 @@ Legend: ✅ reachable - ⚠️ blocked to automated checks or erroring (verify m
 | Top AI Directories | [topaidirectories.com](https://topaidirectories.com) | – | – | Free | ✅ |
 | uneed directories | [uneed-directories.com](https://uneed-directories.com) | – | – | Paid | ❌ dead |
 | webdirectorycenter | [webdirectorycenter.com](https://webdirectorycenter.com) | – | – | Free | ✅ |
+| DirRove | [dirrove.com](https://dirrove.com) | [Submit](https://dirrove.com/submit) | – | Free with badge | ✅ |
 
 ## Design, Developer and General
 
@@ -630,6 +633,7 @@ Legend: ✅ reachable - ⚠️ blocked to automated checks or erroring (verify m
 | Stratup.ai | [stratup.ai](https://stratup.ai/) | – | – | – | ✅ |
 | Top AI Tools Hub | [topaitoolshub.com](https://www.topaitoolshub.com/) | – | – | – | ❌ dead |
 | Top Tools | [toptools.ai](https://www.toptools.ai/) | – | – | – | ✅ |
+| DevRove | [devrove.com](https://devrove.com) | [Submit](https://devrove.com/submit) | – | Free with badge | ✅ |
 
 ## Methodology
 
